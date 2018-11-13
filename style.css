@@ -68,7 +68,12 @@ h1{
 	font-size: 20;
 	text-align: center;
 }
-
+h3{
+	color:black;
+	font-family:'Slabo 27px', serif;
+	font-size:100;
+	text-align:center;
+}
 li {
     display: inline;
 }
